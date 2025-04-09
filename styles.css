@@ -1,0 +1,14 @@
+body { background-color: red; }
+.container { max-width: 900px; margin: auto; }
+p{border:solid;border-color:gold;border-width:2px;}
+	p{padding:25px;}
+	p {margin: 2px;}
+	table {border-width:5px;
+	border-style:solid;
+		border-color:gold
+		}
+		td { border-width:1px;border-style:solid;border-color:gold;}
+		td {padding:15px;}
+		table {border:spacing:15px;}
+		td.cellaRossa{background-color:yellow;}
+		td.cellaVerde{background-color:yellow;}
